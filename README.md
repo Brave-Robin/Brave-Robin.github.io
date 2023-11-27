@@ -38,3 +38,7 @@
 ![Princess](./img/Princess3.jpg)
 ![Princess](./img/Princess4.jpg)
 ![Princess](./img/Princess5.jpg)
+---
+
+# Contacts:
+[@Just_call_me_Sergio](https://t.me/Just_call_me_Sergio)
