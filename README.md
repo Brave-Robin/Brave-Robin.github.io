@@ -1,5 +1,10 @@
 # All kitties are almost ready for adoption. You can meet a real friend for a long time. 😻
 
+# Contacts:
+[@Just_call_me_Sergio](https://t.me/Just_call_me_Sergio)
+
+### Location: Georgia, [Tbilisi](https://www.google.com/maps/place/Tbilisi/)
+
 ## Her name is Majesty, she is an affectionate tame who loves to sit in your arms.
 ![Majesty](./img/Majesty1.jpg)
 ![Majesty](./img/Majesty2.jpg)
@@ -39,6 +44,3 @@
 ![Princess](./img/Princess4.jpg)
 ![Princess](./img/Princess5.jpg)
 ---
-
-# Contacts:
-[@Just_call_me_Sergio](https://t.me/Just_call_me_Sergio)
