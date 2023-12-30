@@ -1,4 +1,4 @@
-# All kitties are almost ready for adoption. You can meet a real friend for a long time. 😻
+# All kitties are ready for adoption. You can meet a real friend for a long time. 😻
 
 # Contacts:
 [@Just_call_me_Sergio](https://t.me/Just_call_me_Sergio)
