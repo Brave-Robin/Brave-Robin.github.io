@@ -25,16 +25,16 @@
 ---
 
 ## His name is Boozer, and he is a party maker. (He has some trouble with her left eye.)
-![Scandal](./img/Scandal1.jpg)
-![Scandal](./img/Scandal2.jpg)
-![Scandal](./img/Scandal3.jpg)
+![Boozer](./img/Boozer1.jpg)
+![Boozer](./img/Boozer2.jpg)
+![Boozer](./img/Boozer3.jpg)
 ---
 
 ## His name is Handsome Jack, and he loves to hunt anything that moves. (He doesn't have a left eye - a yard dog bites him)
-![Scarlet](./img/Scarlet1.jpg)
-![Scarlet](./img/Scarlet2.jpg)
-![Scarlet](./img/Scarlet3.jpg)
-![Scarlet](./img/Scarlet4.jpg)
+![Handsome Jack](./img/Handsome_Jack1.jpg)
+![Handsome Jack](./img/Handsome_Jack2.jpg)
+![Handsome Jack](./img/Handsome_Jack3.jpg)
+![Handsome Jack](./img/Handsome_Jack4.jpg)
 ---
 
 ## Her name is Princess, and she loves to hide in a bucket.
